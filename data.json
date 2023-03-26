@@ -1,0 +1,22 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Mustard Seeds",
+            "image": "https://static.toiimg.com/photo/72350262.cms",
+            "rating": 4.5,
+            "comments": 1273,
+            "distance": 12,
+            "time": 2
+        },
+        {
+            "id": 2,
+            "name": "Cotton Seeds",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQwa5ocvWIcMlNvfTIMc2XerwalHSm8ok4Q&usqp=CAU",
+            "rating": 4.2,
+            "comments": 2871,
+            "distance": 8,
+            "time": 3
+        }
+    ]
+}

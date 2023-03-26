@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070669223137",
+    "project_id": "agroekartapp",
+    "storage_bucket": "agroekartapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070669223137:android:e270bf175daaad350d93a0",
+        "android_client_info": {
+          "package_name": "com.example.betting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070669223137-ckv0mfb5chvequa9ph99t1t0o47anknq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsP7askDMz78aF_iyMeyyM1T8vroBM3-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070669223137-ckv0mfb5chvequa9ph99t1t0o47anknq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
