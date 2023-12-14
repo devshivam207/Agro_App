@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Sharing some visuals : 
+[agro_ss.pdf](https://github.com/devshivam207/Agro_App/files/13674471/agro_ss.pdf)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
